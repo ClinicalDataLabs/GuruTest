@@ -1,0 +1,2264 @@
+
+Log Entry : 9:52:13 PM Sunday, January 25, 2015
+  :
+  :Invalid user name and/or password
+-------------------------------
+
+Log Entry : 9:55:04 PM Sunday, January 25, 2015
+  :
+  :Invalid user name and/or password
+-------------------------------
+
+Log Entry : 9:57:19 PM Sunday, January 25, 2015
+  :
+  :Invalid user name and/or password
+-------------------------------
+
+Log Entry : 9:58:29 PM Sunday, January 25, 2015
+  :
+  :Invalid user name and/or password
+-------------------------------
+
+Log Entry : 10:26:24 PM Sunday, January 25, 2015
+  :
+  :Invalid user name and/or password
+-------------------------------
+
+Log Entry : 10:28:45 PM Sunday, January 25, 2015
+  :
+  :The device is not ready.
+
+-------------------------------
+
+Log Entry : 11:44:42 AM Friday, February 20, 2015
+  :
+  :The formatter threw an exception while trying to deserialize the message: There was an error while trying to deserialize parameter http://www.kareo.com/api/schemas/:GetProvidersResult. The InnerException message was 'Maximum number of items that can be serialized or deserialized in an object graph is '65536'. Change the object graph or increase the MaxItemsInObjectGraph quota. '.  Please see InnerException for more details.
+-------------------------------
+
+Log Entry : 11:45:22 AM Friday, February 20, 2015
+  :
+  :The formatter threw an exception while trying to deserialize the message: There was an error while trying to deserialize parameter http://www.kareo.com/api/schemas/:GetProvidersResult. The InnerException message was 'Maximum number of items that can be serialized or deserialized in an object graph is '65536'. Change the object graph or increase the MaxItemsInObjectGraph quota. '.  Please see InnerException for more details.
+-------------------------------
+
+Log Entry : 11:46:34 AM Friday, February 20, 2015
+  :
+  :The formatter threw an exception while trying to deserialize the message: There was an error while trying to deserialize parameter http://www.kareo.com/api/schemas/:GetProvidersResult. The InnerException message was 'Maximum number of items that can be serialized or deserialized in an object graph is '65536'. Change the object graph or increase the MaxItemsInObjectGraph quota. '.  Please see InnerException for more details.
+-------------------------------
+
+Log Entry : 9:43:03 AM Monday, February 23, 2015
+  :
+  :The maximum message size quota for incoming messages (65536) has been exceeded. To increase the quota, use the MaxReceivedMessageSize property on the appropriate binding element.
+-------------------------------
+
+Log Entry : 9:43:30 AM Monday, February 23, 2015
+  :
+  :The maximum message size quota for incoming messages (65536) has been exceeded. To increase the quota, use the MaxReceivedMessageSize property on the appropriate binding element.
+-------------------------------
+
+Log Entry : 1:53:58 PM Thursday, May 14, 2015
+  :
+  :The device is not ready.
+
+-------------------------------
+
+Log Entry : 2:08:59 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:09:36 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:10:59 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:12:08 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:13:33 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:14:37 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:15:30 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:16:37 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:17:46 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:18:29 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:19:20 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:20:23 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:21:38 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:22:11 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:23:20 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:24:10 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:24:49 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:25:27 PM Saturday, May 16, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 61780.</ErrorMessage>
+-------------------------------
+
+Log Entry : 5:44:46 PM Thursday, May 21, 2015
+  :
+  :Invalid user name and/or password
+-------------------------------
+
+Log Entry : 4:40:15 PM Friday, May 22, 2015
+  :
+  :Missing permissions
+-------------------------------
+
+Log Entry : 4:40:58 PM Friday, May 22, 2015
+  :
+  :Missing permissions
+-------------------------------
+
+Log Entry : 11:22:13 AM Tuesday, May 26, 2015
+  :
+  :The formatter threw an exception while trying to deserialize the message: There was an error while trying to deserialize parameter http://www.kareo.com/api/schemas/:GetAppointmentsResult. The InnerException message was 'Maximum number of items that can be serialized or deserialized in an object graph is '65536'. Change the object graph or increase the MaxItemsInObjectGraph quota. '.  Please see InnerException for more details.
+-------------------------------
+
+Log Entry : 11:42:24 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66725.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:43:05 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66725.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:43:51 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66725.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:44:40 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66726.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:45:21 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66726.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:46:04 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66726.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:46:48 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66726.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:47:27 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66726.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:48:10 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66726.</ErrorMessage>
+-------------------------------
+
+Log Entry : 11:59:18 AM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:01:54 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:03:32 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:04:21 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:05:03 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:05:46 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:06:29 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:07:10 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:07:52 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:08:31 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:09:17 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:10:00 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:10:47 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:11:30 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:12:13 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:12:59 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:13:40 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:14:27 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:15:17 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:16:04 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:16:54 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:17:45 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:18:30 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:19:25 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:20:10 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:20:58 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:21:43 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:22:34 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:23:12 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:23:59 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:24:45 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:25:31 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:26:09 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:26:58 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:27:38 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:28:21 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:29:00 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:29:45 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:30:29 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:31:14 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:31:58 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:32:37 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:33:23 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:34:13 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:35:03 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:35:54 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:36:38 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:37:28 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:38:11 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66728.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:38:50 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66729.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:39:59 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66729.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:40:44 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66729.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:41:34 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66729.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:42:20 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:43:09 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:43:53 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:44:42 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:45:26 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:46:06 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:46:47 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:47:29 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:48:15 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:49:03 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:49:48 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:50:38 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:51:28 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:52:10 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:52:51 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:53:55 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:54:42 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:55:27 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:56:14 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:57:00 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:57:46 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:58:29 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:59:08 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:59:47 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:00:35 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:01:15 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:01:55 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:02:39 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:03:56 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:04:41 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:05:39 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:06:37 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:07:23 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:08:14 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:08:53 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:09:39 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:10:21 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:10:59 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:11:46 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:12:24 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:13:10 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:13:53 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:14:41 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:15:19 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:15:56 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:16:37 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:17:16 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:17:55 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:18:39 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:19:24 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:20:07 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:20:47 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:21:30 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:22:09 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:22:49 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:23:32 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:24:18 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:25:34 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:26:19 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:27:05 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66730.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:27:44 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:28:29 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:29:15 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:30:01 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:30:59 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:31:47 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:32:34 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:33:20 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:34:04 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:34:49 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:35:35 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:36:21 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:37:08 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:37:49 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:38:40 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:39:35 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:40:29 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:41:27 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:42:18 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:43:02 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:43:47 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:44:32 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:45:11 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:45:50 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:48:20 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:48:58 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:49:41 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:50:22 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:51:09 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:51:48 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:52:32 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:53:12 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:53:51 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:54:33 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:55:20 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:56:00 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:56:45 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:57:24 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66731.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:58:07 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:58:53 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:59:35 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:00:14 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:01:05 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:01:53 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:02:32 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:03:21 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:04:09 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:04:52 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:05:35 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:06:24 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:07:09 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:07:56 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:08:33 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:09:12 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:09:54 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:10:38 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:11:23 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:12:13 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:12:51 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:13:32 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:14:11 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:14:51 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:15:28 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:16:10 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:16:51 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:17:29 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:18:16 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:18:58 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:19:48 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:20:26 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:21:14 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:22:01 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:22:40 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:23:23 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:24:19 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:25:08 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:25:55 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:26:38 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:27:25 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:28:02 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:28:43 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:29:22 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:29:59 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:30:37 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:31:18 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:32:04 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:32:41 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:33:32 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:34:27 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:35:04 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:35:40 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:36:37 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:37:27 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:38:07 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:38:53 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:39:38 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66732.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:40:25 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:41:03 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:41:39 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:42:23 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:43:09 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:43:48 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:44:26 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:45:09 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:46:16 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:47:04 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:47:55 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:48:43 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:49:31 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:50:08 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:50:53 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:51:34 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:52:18 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66733.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:52:57 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66734.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:53:33 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66734.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:54:12 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66734.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:54:49 PM Tuesday, May 26, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66734.</ErrorMessage>
+-------------------------------
+
+Log Entry : 10:00:07 AM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62007.</ErrorMessage>
+-------------------------------
+
+Log Entry : 10:06:59 AM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62007.</ErrorMessage>
+-------------------------------
+
+Log Entry : 10:07:50 AM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62007.</ErrorMessage>
+-------------------------------
+
+Log Entry : 10:08:42 AM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62007.</ErrorMessage>
+-------------------------------
+
+Log Entry : 10:09:57 AM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62007.</ErrorMessage>
+-------------------------------
+
+Log Entry : 10:10:33 AM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62007.</ErrorMessage>
+-------------------------------
+
+Log Entry : 10:11:31 AM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62007.</ErrorMessage>
+-------------------------------
+
+Log Entry : 10:12:21 AM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62007.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:12:12 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62011.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:13:25 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62011.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:14:38 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62011.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:15:14 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62011.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:16:09 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62011.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:16:54 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62011.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:35:08 PM Tuesday, June 02, 2015
+  :
+  :The device is not ready.
+
+-------------------------------
+
+Log Entry : 12:37:28 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:38:11 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:38:52 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:39:33 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:40:11 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:40:50 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:41:31 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:42:12 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:42:53 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:43:41 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:44:28 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:45:10 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:45:59 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:46:43 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:47:28 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:48:08 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:49:14 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:50:23 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:51:02 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:51:41 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:52:22 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:53:02 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:53:50 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:54:37 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:55:20 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:56:11 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:57:01 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:57:52 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:58:56 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 12:59:44 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:00:33 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:01:20 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:02:01 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:02:42 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:03:21 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:04:00 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:04:46 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:05:26 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:06:08 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:06:50 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:07:31 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:08:14 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:08:54 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:09:41 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:10:21 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:11:39 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:12:32 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:13:25 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:14:22 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:15:07 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:16:07 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:16:52 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:17:31 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:18:09 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:18:48 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:19:33 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:20:16 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:20:57 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:21:48 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:22:29 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:23:22 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:24:09 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:25:12 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:25:59 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:26:45 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66870.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:53:35 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62013.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:54:48 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62013.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:56:06 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62014.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:19:26 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:20:07 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:20:45 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:21:24 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:22:03 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:23:23 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:24:01 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:24:40 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:25:21 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:26:01 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:26:42 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:27:22 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:28:00 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:28:41 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:29:26 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 3:30:12 PM Tuesday, June 02, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 66880.</ErrorMessage>
+-------------------------------
+
+Log Entry : 5:54:14 PM Friday, June 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62073.</ErrorMessage>
+-------------------------------
+
+Log Entry : 5:54:56 PM Friday, June 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62073.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:40:55 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67450.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:41:40 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67450.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:43:38 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:44:10 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:44:41 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:45:43 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:46:50 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:47:21 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:47:53 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:48:31 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:49:40 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:50:13 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:50:46 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:51:20 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:51:56 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:52:34 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:53:37 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 2:54:23 AM Sunday, July 05, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 62435.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:20:41 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:21:26 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:22:08 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:22:51 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:23:29 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:24:08 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:24:52 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:25:35 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:26:17 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:26:54 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:27:38 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:28:30 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:29:14 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:30:03 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:30:50 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:31:37 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:32:21 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:32:59 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:33:37 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:34:19 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:35:00 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:35:39 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:36:29 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:37:24 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:38:10 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:38:56 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:39:47 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:40:33 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:41:15 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:41:53 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:42:32 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:43:15 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:43:56 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:44:35 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:45:13 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:45:56 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:46:39 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:47:22 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:48:03 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:48:42 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:49:20 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:50:09 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:50:55 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:51:40 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:52:23 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:53:08 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:53:52 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:54:40 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:55:25 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:56:04 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:56:45 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:57:23 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:58:02 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:58:43 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 4:59:22 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 5:00:01 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 5:00:45 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 5:01:33 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 5:02:19 PM Monday, July 27, 2015
+  :
+  :<ErrorMessage>You reached the maximum of 10,000 results. Record Count: 67851.</ErrorMessage>
+-------------------------------
+
+Log Entry : 1:46:20 PM Monday, November 09, 2015
+  :
+  :The device is not ready.
+
+-------------------------------

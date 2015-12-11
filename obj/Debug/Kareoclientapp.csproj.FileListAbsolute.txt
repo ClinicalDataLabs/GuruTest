@@ -1,0 +1,6 @@
+C:\Users\Gu\Documents\Visual Studio 2008\Projects\Kareoclientapp\Kareoclientapp\bin\Debug\Kareoclientapp.exe.config
+C:\Users\Gu\Documents\Visual Studio 2008\Projects\Kareoclientapp\Kareoclientapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gu\Documents\Visual Studio 2008\Projects\Kareoclientapp\Kareoclientapp\bin\Debug\Kareoclientapp.exe
+C:\Users\Gu\Documents\Visual Studio 2008\Projects\Kareoclientapp\Kareoclientapp\bin\Debug\Kareoclientapp.pdb
+C:\Users\Gu\Documents\Visual Studio 2008\Projects\Kareoclientapp\Kareoclientapp\obj\Debug\Kareoclientapp.exe
+C:\Users\Gu\Documents\Visual Studio 2008\Projects\Kareoclientapp\Kareoclientapp\obj\Debug\Kareoclientapp.pdb
